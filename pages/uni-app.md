@@ -1,0 +1,4 @@
+- 常用组件
+	- uni.setStorageSync 本地存储
+	- uni.getStorageSync
+	- 用户使用wx.getUserInfo（开发和体验版）时不会弹出授权，正式版不受影响。

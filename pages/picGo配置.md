@@ -1,0 +1,11 @@
+- # Token
+- ## github
+	- ![image.png](../assets/image_1652950377664_0.png)
+	- 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
+- ## Gitee
+	- 4f05993a2722511f4b02bf1c264f5f9e
+- ## 微信开放平台
+	- appId
+		- wx87d638f810952d06
+	- AppSecret(小程序秘钥)
+		- a52fac849ee9a72a6325588f9d69680d
