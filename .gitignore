@@ -2,5 +2,6 @@
 
 # misc
 .DS_Store
+# logseq
 config.edn
-*bak
+*bak 

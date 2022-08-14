@@ -1,4 +1,5 @@
-{;; Currently, we support either "Markdown" or "Org".
+{:meta/version 1
+  ;; Currently, we support either "Markdown" or "Org".
  ;; This can overwrite your global preference so that
  ;; maybe your personal preferred format is Org but you'd
  ;; need to use Markdown for some projects.
@@ -11,10 +12,10 @@
 
  ;; Git is only available in web app
  ;; Git settings
- :git-pull-secs 60
- :git-push-secs 10
+;;  :git-pull-secs 60
+;;  :git-push-secs 10
  ;; Whether to enable git auto push
- :git-auto-push true
+;;  :git-auto-push true
 
  ;; The app will ignore those directories or files.
  ;; E.g. "/archived" "/test.md"
