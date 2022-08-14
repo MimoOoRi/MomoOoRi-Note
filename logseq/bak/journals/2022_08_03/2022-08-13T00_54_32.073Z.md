@@ -1,0 +1,26 @@
+- DONE 批量导入导出
+  :LOGBOOK:
+  CLOCK: [2022-08-03 Wed 21:08:31]
+  :END:
+- import read,utils,writeFileXLSX from 'xlsx
+- 导入table，上传excel文件，解析，转换成表格
+- 上传excel，antd有uploader，得到fileList，包含多个excel文件
+- new FileReader中的[readAsArrayBuffer](https://developer.mozilla.org/zh-CN/docs/Web/API/FileReader/readAsArrayBuffer)
+	- ```js
+	  var reader = new FileReader();
+	  reader.onload = function (event) {
+	      // event.target.result就是文件文本内容
+	      // 然后你就可以为所欲为了
+	      // 例如如果是JSON数据可以解析
+	      // 如果是HTML数据，可以直接插入到页面中
+	      // 甚至字幕文件，各种滤镜，自定义文件格式，都可以玩弄于鼓掌之间……
+	  };
+	  reader.readAsText(file);
+	  ```
+- read(e.target.result)读取excel文件为对象workbook，read方法来自引入的xlsx
+- workbook.Sheets，数组，返回一个表示工作表的对象
+- workbook.SheetNames，数组，取[0]，表示工作簿内工作表的有序列表
+- utils对象中sheet_to_json  生成一个对象数组
+-
+-
+- [Reference](https://blog.csdn.net/weixin_44198965/article/details/122341689)
