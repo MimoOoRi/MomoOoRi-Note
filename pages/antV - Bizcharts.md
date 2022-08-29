@@ -35,7 +35,6 @@
 - ## Facet 分面
 	- ![image.png](../assets/image_1661781227335_0.png)
 - ## DataSet
-  collapsed:: true
 	- dataset 数据集
 	- transform  数据转换
 		- filter、sort、rename(字段重命名)、partition(数据分组：grouoBy、orderBy)、
@@ -44,6 +43,7 @@
 			- ![image.png](../assets/image_1661782067121_0.png)
 	- connector
 - ## Hooks
+  collapsed:: true
 	- Effects
 		- ![image.png](../assets/image_1661782339945_0.png)
 	- 可以直接使用[G2的语法](https://g2.antv.vision/zh/docs/manual/about-g2)对chart对象进行配置
