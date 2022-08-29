@@ -37,5 +37,5 @@
 - ## DataSet
 	- dataset 数据集
 	- transform  数据转换
-		- filter、sort、rename(字段重命名)、partition(数据分组：grouoBy、orderBy)、
+		- filter、sort、rename(字段重命名)、partition(数据分组：grouoBy、orderBy)、aggregate 聚合统计
 	- connector
