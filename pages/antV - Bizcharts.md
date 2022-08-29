@@ -36,14 +36,13 @@
   collapsed:: true
 	- ![image.png](../assets/image_1661781227335_0.png)
 - ## DataSet
-  collapsed:: true
 	- dataset 数据集
 	- transform  数据转换
 		- filter、sort、rename(字段重命名)、partition(数据分组：grouoBy、orderBy)、
 		- aggregate 聚合统计
 		  collapsed:: true
 			- ![image.png](../assets/image_1661782067121_0.png)
-	- connector
+	- connector  解析数据
 	  collapsed:: true
 		- CSV 文件 ->  图表
 			- ```jsx
