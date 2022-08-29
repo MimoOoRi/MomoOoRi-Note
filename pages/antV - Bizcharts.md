@@ -47,4 +47,5 @@
 	- Effects
 		- ![image.png](../assets/image_1661782339945_0.png)
 	- 可以直接使用[G2的语法](https://g2.antv.vision/zh/docs/manual/about-g2)对chart对象进行配置
-	- useView  获取
+	- useView  获取view对象
+	- useChartInstance 用于获得G2的chart实例的hooks
