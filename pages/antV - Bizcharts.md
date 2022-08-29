@@ -1,4 +1,5 @@
 - ## slider 滑块
+  collapsed:: true
 	- 需要单独引入
 	  collapsed:: true
 		- ```jsx
@@ -26,3 +27,4 @@
 	      }}
 	    />
 	  ```
+-
