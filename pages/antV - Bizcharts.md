@@ -72,7 +72,7 @@
 - 动态更新数据
   collapsed:: true
 	- chart.changeData(data)
-- G2
-	-
-- BizCharts
-	-
+- ## echarts-for-react  和BizCharts 区别
+	- ### 配置
+		- echarts 集中在options中进行配置
+			-
