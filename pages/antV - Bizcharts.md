@@ -28,6 +28,6 @@
 	    />
 	  ```
 - ## Annotation - 图形标注
-	-
+	- 支持html、文本、
 	- ![image.png](../assets/image_1661780809204_0.png)
 	- ![image.png](../assets/image_1661780952247_0.png)
