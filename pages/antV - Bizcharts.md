@@ -43,7 +43,11 @@
 			- ![image.png](../assets/image_1661782067121_0.png)
 	- connector
 		- CSV 文件 ->  图表
-		-
+			- ```jsx
+			  .source(data, {
+			        type: 'csv', // 使用 CSV 类型的 Connector 装载 data
+			      });
+			  ```
 - ## Hooks
   collapsed:: true
 	- Effects
