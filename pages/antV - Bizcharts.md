@@ -59,3 +59,4 @@
 	- useView  获取view对象
 	- useChartInstance 用于获得G2的chart实例的hooks
 - watchingStates
+-
