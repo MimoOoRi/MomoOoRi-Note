@@ -71,5 +71,6 @@
 - 动态更新数据
 	- chart.changeData(data)
 - G2
+	-
 - BizCharts
 	-
