@@ -59,4 +59,5 @@
 	- useView  获取view对象
 	- useChartInstance 用于获得G2的chart实例的hooks
 - watchingStates
--
+- 动态更新数据
+	- chart.changeData(data)
