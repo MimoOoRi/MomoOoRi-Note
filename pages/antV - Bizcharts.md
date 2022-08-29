@@ -28,6 +28,6 @@
 	    />
 	  ```
 - ## Annotation - 图形标注
-	- 支持html、文本、图片、数据点标注(marker)、
+	- 支持html、文本、图片、数据点标注(marker，支持'min', 'median', 'max' 关键字)、
 	- ![image.png](../assets/image_1661780809204_0.png)
 	- ![image.png](../assets/image_1661780952247_0.png)
