@@ -52,6 +52,7 @@
 			- ![image.png](../assets/image_1661782654135_0.png)
 			- ![image.png](../assets/image_1661782639800_0.png)
 			-
+	-
 	- 源数据的解析，将 `CSV` ,  `DSV` ,  `GeoJSON` 转成标准的 `JSON`
 	- 加工数据，包括 `filter` ,  `map` ,  `fold` (补数据) 等操作
 	- 统计函数，汇总统计、百分比、封箱 等统计函数
