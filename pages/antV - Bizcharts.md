@@ -48,6 +48,8 @@
 			        type: 'csv', // 使用 CSV 类型的 Connector 装载 data
 			      });
 			  ```
+			- ![image.png](../assets/image_1661782654135_0.png)
+			- ![image.png](../assets/image_1661782639800_0.png)
 			-
 - ## Hooks
   collapsed:: true
