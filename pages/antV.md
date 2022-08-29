@@ -6,4 +6,4 @@
 		- element-highlight 高亮
 		- brush  框选过滤图形
 			- brush-x
-			- brush-y
+			- brush-y  把上面 brush Action 换成 brush-y 即成为新的交互，仅框选 y 轴相关的数据
