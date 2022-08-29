@@ -92,10 +92,10 @@
 			  ```
 		- BizCharts
 			- 根据组件需要，配置参数之后进行赋值
-				- ```js 
+				- ```jsx 
 				  const cols = {...};
 				  const data = {...};
-				  <Chart width={600} height={400} data={data} sca`enter code here`le={cols}&gt;
+				  <Chart width={600} height={400} data={data} scale={cols}>
 				      ...
-				  ></Chart>;
+				  </Chart>;
 				  ```
