@@ -44,7 +44,7 @@
 	- connector
 		- CSV 文件 ->  图表
 			- ```jsx
-			  .source(data, {
+			  ds.source(data, {
 			        type: 'csv', // 使用 CSV 类型的 Connector 装载 data
 			      });
 			  ```
