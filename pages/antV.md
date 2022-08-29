@@ -5,3 +5,5 @@
 		- view-zoom  鼠标==滚动==时，图表内部缩放
 		- element-highlight 高亮
 		- brush  框选过滤图形
+			- brush-x
+			- brush-y
