@@ -42,6 +42,7 @@
 		  collapsed:: true
 			- ![image.png](../assets/image_1661782067121_0.png)
 	- connector
+	  collapsed:: true
 		- CSV 文件 ->  图表
 			- ```jsx
 			  ds.source(data, {
@@ -51,6 +52,10 @@
 			- ![image.png](../assets/image_1661782654135_0.png)
 			- ![image.png](../assets/image_1661782639800_0.png)
 			-
+	- 源数据的解析，将 `CSV` ,  `DSV` ,  `GeoJSON` 转成标准的 `JSON`
+	- 加工数据，包括 `filter` ,  `map` ,  `fold` (补数据) 等操作
+	- 统计函数，汇总统计、百分比、封箱 等统计函数
+	- 特殊数据处理，包括 地理数据、矩形树图、桑基图、文字云 的数据处理
 - ## Hooks
   collapsed:: true
 	- Effects
