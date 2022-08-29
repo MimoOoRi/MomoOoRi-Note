@@ -1,4 +1,6 @@
 - slider 滑块
 	- ![image.png](../assets/image_1661780299302_0.png)
 	- interaction  交互
-		- active-region
+		- active-region  鼠标在画布上移动时对应位置的分类出现背景框
+		- view-zoom  鼠标==滚动==时，图表内部缩放
+		-
