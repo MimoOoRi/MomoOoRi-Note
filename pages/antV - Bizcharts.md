@@ -33,8 +33,10 @@
 	- ![image.png](../assets/image_1661780809204_0.png)
 	- ![image.png](../assets/image_1661780952247_0.png)
 - ## Facet 分面
+  collapsed:: true
 	- ![image.png](../assets/image_1661781227335_0.png)
 - ## DataSet
+  collapsed:: true
 	- dataset 数据集
 	- transform  数据转换
 		- filter、sort、rename(字段重命名)、partition(数据分组：grouoBy、orderBy)、
@@ -68,3 +70,4 @@
 	- 创建数据视图实例时，传入的 watchingStates 是用于指定该数据视图监听的 states 状态量的。默认监听所有状态量（也就是任何状态量变更都会导致数据视图重新计算），如果指定为空数组 []，则不监听任何状态量，如果指定为非空数组，则只监听数组元素对应的状态量变更。
 - 动态更新数据
 	- chart.changeData(data)
+	-
