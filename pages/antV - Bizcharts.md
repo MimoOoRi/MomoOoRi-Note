@@ -44,4 +44,7 @@
 			- ![image.png](../assets/image_1661782067121_0.png)
 	- connector
 - ## Hooks
+	- Effects
+		- ![image.png](../assets/image_1661782339945_0.png)
+	- 可以直接使用[G2的语法](https://g2.antv.vision/zh/docs/manual/about-g2)对chart对象进行配置
 	-
