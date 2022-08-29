@@ -37,5 +37,8 @@
 - ## DataSet
 	- dataset 数据集
 	- transform  数据转换
-		- filter、sort、rename(字段重命名)、partition(数据分组：grouoBy、orderBy)、aggregate 聚合统计
+		- filter、sort、rename(字段重命名)、partition(数据分组：grouoBy、orderBy)、
+		- aggregate 聚合统计
+		  collapsed:: true
+			- ![image.png](../assets/image_1661782067121_0.png)
 	- connector
