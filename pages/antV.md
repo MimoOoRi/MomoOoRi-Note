@@ -1,1 +1,1 @@
-- slider
+- slider 滑块
