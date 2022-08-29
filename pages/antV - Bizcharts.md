@@ -1,6 +1,13 @@
 - ## slider 滑块
-	- 需要独立引入
+	- 需要单独引入
+	  collapsed:: true
 		- ```jsx
+		  import { Chart Slider Line } from 'bizcharts';
+		  
+		  <Chart padding="auto" autoFit height={500} data={data} >
+		      <Line shape="hv" position="month*value" />
+		      <Slider end={0.8} />
+		    </Chart>
 		  ```
 	- ![image.png](../assets/image_1661780299302_0.png)
 - ## interaction  交互
