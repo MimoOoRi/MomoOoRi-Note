@@ -3,4 +3,5 @@
 	- interaction  交互
 		- active-region  鼠标在画布上移动时对应位置的分类出现背景框
 		- view-zoom  鼠标==滚动==时，图表内部缩放
+		- element-highlight 高亮
 		-
